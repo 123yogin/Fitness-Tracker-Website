@@ -95,7 +95,10 @@ A responsive web application built with Flask that enables users to monitor thei
 
 ## 🖼️ Screenshots
 
-[Screenshot (45)](https://github.com/user-attachments/assets/e30299eb-7ec3-4652-9d00-37356abf77fd) ![Screenshot (44)](https://github.com/user-attachments/assets/a14f2fa5-85a1-4765-b6aa-65153af0876b) ![Screenshot (43)](https://github.com/user-attachments/assets/62ab7df9-d034-4f4c-9649-26c0cb868d9c)![Screenshot (42)](https://github.com/user-attachments/assets/8d6d2aad-354f-4752-81a4-a5cff4dd647e) ![Screenshot (4)](https://github.com/user-attachments/assets/820f1996-4049-4c7d-8b06-92bc4d9c00a9)
+[Screenshot (45)](https://github.com/user-attachments/assets/e30299eb-7ec3-4652-9d00-37356abf77fd) 
+[Screenshot (44)](https://github.com/user-attachments/assets/a14f2fa5-85a1-4765-b6aa-65153af0876b) 
+[Screenshot (43)](https://github.com/user-attachments/assets/62ab7df9-d034-4f4c-9649-26c0cb868d9c)
+[Screenshot (42)](https://github.com/user-attachments/assets/8d6d2aad-354f-4752-81a4-a5cff4dd647e) 
 
 ## 🤝 Contributing
 
